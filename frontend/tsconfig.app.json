@@ -4,6 +4,16 @@
     "target": "ES2022",
     "useDefineForClassFields": true,
     "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    
+    // 👇👇👇 INSERT THESE LINES HERE 👇👇👇
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    },
+    // 👆👆👆 INSERT THESE LINES HERE 👆👆👆
+    
     "module": "ESNext",
     "types": ["vite/client"],
     "skipLibCheck": true,
