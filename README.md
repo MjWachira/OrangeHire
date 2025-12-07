@@ -1,3 +1,3 @@
 - Frontend - React
 - API(Backend) - Node, Express
-- Db - 
+- Db - Mongo
