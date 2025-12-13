@@ -1,3 +1,3 @@
 - Frontend - React, Vite
 - API(Backend) - Node, Express
-- Db - MongoDB
+- DB - MongoDB
